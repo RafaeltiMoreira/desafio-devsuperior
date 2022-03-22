@@ -21,7 +21,7 @@
 
 ## Teacher 🎓
 
-- Ótima didática, conteúdo e desenvolvimento com o profº Nelio Alves [![GitHub Badge](https://img.shields.io/badge/-DevSuperior-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/devsuperior)](https://github.com/devsuperior) 
+- Ótima didática, conteúdo e desenvolvimento com o profº Nelio Alves [![GitHub Badge](https://img.shields.io/badge/-DevSuperior-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio) 
 
 ## Tecnologias utilizadas 🛠️
 - HTML, CSS e JavaScript 
